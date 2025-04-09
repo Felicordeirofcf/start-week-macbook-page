@@ -7,7 +7,7 @@ Projeto desenvolvido durante a **Start Week**, com o objetivo de colocar em prá
 ## 📸 Preview
 
 ![Preview do Projeto](https://felicordeirofcf.github.io/start-week-macbook-page/)  
-*Simulação visual da landing page clonada.*
+[*Simulação visual da landing page clonada.*](https://felicordeirofcf.github.io/start-week-macbook-page/)
 
 ---
 
